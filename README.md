@@ -1,2 +1,2 @@
 # Monti-Carlo-Mosquito
-CS205 AI Extra Credit Assignment
+CS205 AI Extra Credit Assignment UCR
